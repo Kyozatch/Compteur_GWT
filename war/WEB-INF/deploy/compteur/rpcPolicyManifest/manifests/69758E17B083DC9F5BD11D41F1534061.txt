@@ -1,0 +1,2 @@
+serviceClass: fr.ifsic.gwt.compteur.client.GreetingService
+path: 7D6DAEB2FA4805F00A42E1CF15A1E524.gwt.rpc
